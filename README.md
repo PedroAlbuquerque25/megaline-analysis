@@ -74,7 +74,7 @@ Megaline should continue promoting the **Surf** plan while considering the devel
 
 ## ⚙️ How to Run
 1. Clone the repository  
-git clone https://github.com/PedroAlbuquerque25/megaline-revenue-analysis.git  
+git clone https://github.com/PedroAlbuquerque25/megaline-analysis.git  
 
 2. Install dependencies  
 pip install -r requirements.txt  
