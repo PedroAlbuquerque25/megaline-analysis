@@ -68,6 +68,7 @@ Megaline should continue promoting the **Surf** plan while considering the devel
 │   └── megaline_analysis.ipynb  # Full EDA and statistical analysis
 ├── README.md     # Project documentation
 └── requirements.txt  # Project dependencies
+```
 
 ---
 
